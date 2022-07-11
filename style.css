@@ -1,3 +1,6 @@
+body{
+    text-align: center;
+}
 .textColor_blue{
     color: blue;
 }
@@ -24,9 +27,6 @@ p:hover{
 }
 h1:hover{
     background-color: blueviolet;
-    text-align: center;
-}
-body{
     text-align: center;
 }
 p{
